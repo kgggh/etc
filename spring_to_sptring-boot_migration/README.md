@@ -174,10 +174,15 @@ server.servlet.jsp.init-parameters.development=true
 ```
 
 ### 후기
+
 삽질을 하다보니 어느순간 정상적으로 돌아가는 모습을 보니 흐뭇...^^ maven 기반으로 정리를 했는데 gradle로 변경까지 완료<br>
 - maven -> gradle로 변경하려면 터미널켜서 해당 프로젝트 pom 위치한 디렉토리에서 gradle init type pom 명령어 쓰면 손쉽게 dependency 적용가능
 - 회사 프로젝트들 모두 정리해서 전환해야겠다.... 첨해보는 작업이라 삽질 많이했지만 좋은 경험이라 생각함. 
 
+
+### 만약 프로젝트가 두개이상이라 jsp 경로를 못찾는다?(intelij 기준)
+
+[참고]https://wedul.site/591 
 
 
 
