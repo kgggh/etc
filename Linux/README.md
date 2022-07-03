@@ -41,5 +41,11 @@
   - sudo apt-cache search 패키지이름   
    
 - 패키지 정보 보기   
-  - sudo apt-cache show 패키지이름   
-   
+  - sudo apt-cache show 패키지이름  
+  
+- 파일 내용 출력(로깅)
+  - tail -f {파일이름}
+
+- 시스템 상태정보
+  - top
+
